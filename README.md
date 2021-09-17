@@ -1,2 +1,4 @@
 # ERC20-Token
-BASED Token
+ A ERC20 Token written in Solidity
+ 
+ BASED Token
